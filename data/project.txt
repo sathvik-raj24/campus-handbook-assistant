@@ -1,0 +1,6 @@
+FICTIONAL THIRD YEAR PROJECT HANDBOOK FOR TEACHING ONLY
+These invented project rules are for the RAG workshop and are not institutional requirements.
+
+Third year mini project teams have three or four members. Each team must submit a one page proposal containing a problem statement, intended users, dataset description, and proposed evaluation method. The proposal is due on 15 February in this fictional teaching scenario. Teams should choose a problem that can be demonstrated using a small, permitted dataset. No real submission year or current deadline is implied.
+
+The final mini project submission includes source code, a README with setup instructions, a short demonstration video, and a test report. The test report should contain at least ten questions, including two questions that cannot be answered from the dataset. Marks are assigned for correct implementation, evidence of testing, explanation of limitations, and clear demonstration. Do not upload private student records to public repositories. Project mentors review progress every two weeks.

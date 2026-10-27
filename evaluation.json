@@ -1,0 +1,12 @@
+[
+  {"question":"How many books can a third year student borrow, and for how long?","source":"library.txt","evidence":["four","fourteen"]},
+  {"question":"What is the fine for an overdue library book?","source":"library.txt","evidence":["two rupees"]},
+  {"question":"Can I renew a borrowed book?","source":"library.txt","evidence":["seven additional days"]},
+  {"question":"What are the library opening hours?","source":"library.txt","evidence":["8 AM to 6 PM"]},
+  {"question":"How do I get permission to use the laboratory after regular hours?","source":"laboratory.txt","evidence":["one working day"]},
+  {"question":"Are food and drinks allowed near laboratory computers?","source":"laboratory.txt","evidence":["Food and drinks are not allowed"]},
+  {"question":"What must be in the mini project proposal?","source":"project.txt","evidence":["problem statement","evaluation method"]},
+  {"question":"What does the final mini project submission include?","source":"project.txt","evidence":["source code","test report"]},
+  {"question":"What is the annual hostel fee?","source":null,"evidence":[]},
+  {"question":"Who won yesterday's cricket match?","source":null,"evidence":[]}
+]

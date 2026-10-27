@@ -1,0 +1,6 @@
+FICTIONAL CAMPUS LABORATORY POLICY FOR TEACHING ONLY
+These invented rules are sample data, not VCET policy.
+
+The computer laboratory is open from 9 AM to 5 PM on weekdays. Students must save their work before leaving because local files may be cleared at the end of the day. Food and drinks are not allowed near computers. Students may install workshop software only with the laboratory coordinator's permission. Workshop teams contain two students and share one computer if necessary.
+
+To use the computer laboratory after regular hours, send a request to the laboratory coordinator at least one working day in advance. Approval is required before entering after hours. Report hardware faults to the laboratory assistant and include the computer number. Do not attempt to repair electrical equipment. For Python workshops, students should keep their project files in a dedicated folder and use a virtual environment.
